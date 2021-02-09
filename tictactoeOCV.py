@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 frameWidth = 640
-frameHeight = 485
+frameHeight = 480
 
 fistLine = ((95,180),(554,180))
 secondLine = ()
